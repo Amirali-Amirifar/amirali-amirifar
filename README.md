@@ -60,4 +60,4 @@ Daily patterns from [elementary cellular automata](https://en.wikipedia.org/wiki
   <img src="assets/daily.svg" alt="Blue cellular automaton with branching geometric patterns" width="960">
 </picture>
 
-<sub>Rule 105 · 2026-09-16 (UTC) · [Source](scripts/update_readme.py)</sub>
+<sub>Rule 110 · 2026-09-17 (UTC) · [Source](scripts/update_readme.py)</sub>
